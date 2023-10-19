@@ -1,0 +1,3 @@
+[submodule "Projects/UnityExample"]
+	path = Projects/UnityExample
+	url = https://github.com/cherryxdbro/UnityExample.git
